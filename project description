@@ -1,0 +1,7 @@
+This Python program is a simulation of a dice game between two players.
+The program starts by asking the user how many times they want to roll the dice. It then randomly rolls the dice for each player, adding the roll to the player’s score.
+At the end of the game, the scores of the two players are printed and the winner is declared. To begin, the program initializes the scores of both players to 0. 
+It then asks the user to input the number of times they want to roll the dice. This number is stored in an integer variable called ‘num_of_rolls’. 
+The program then enters a ‘for’ loop which runs for the number of times the user has specified. In each iteration, the program rolls the dice for both players and adds the result to the respective player’s score..
+At the end of the loop, the program prints out the scores of both players. It then compares the scores and declares the winner. If the scores are the same, the program prints out “It’s a tie!”. 
+Overall, this program is a great way to simulate a simple dice game between two players. It is simple to understand and can be used as a fun way to introduce people to the world of programming. It can also be easily extended to add more features, such as tracking player statistics or adding more complex rules to the game.
